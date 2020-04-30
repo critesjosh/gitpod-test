@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/critesjosh/gitpod-test/issues"
   },
-  "homepage": "https://github.com/critesjosh/gitpod-test#readme"
+  "homepage": "https://github.com/critesjosh/gitpod-test#readme",
+  "dependencies": {
+    "@celo/contractkit": "0.4.2"
+  }
 }
