@@ -1,0 +1,19 @@
+{
+  "name": "contractkit-demo",
+  "version": "1.0.0",
+  "description": "transfer cUSD on the Celo network vist celo.org to learn more",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/critesjosh/gitpod-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/critesjosh/gitpod-test/issues"
+  },
+  "homepage": "https://github.com/critesjosh/gitpod-test#readme"
+}
